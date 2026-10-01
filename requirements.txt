@@ -1,0 +1,7 @@
+# Dependencias Python para DAGs de Airflow
+# Airflow 3.2.2 ya incluye: airflow, celery, sqlalchemy, etc.
+# Agregar aqui paquetes adicionales que los DAGs necesiten
+
+# Ejemplo:
+# kubernetes==29.0.0
+# requests==2.32.0
